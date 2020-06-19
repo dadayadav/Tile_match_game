@@ -1,10 +1,10 @@
-# Flip_match_game
+# Tile_match_game
 A game developed in python using pygame
 
 ## Usage
 <code><strong>First clone the directory using command</strong></code>
 ``` bash
-git clone https://github.com/dadayadav/Flip_match_game.git 
+git clone https://github.com/dadayadav/Tile_match_game.git 
 ```
 ##### Install all requirements:
 ``` bash
